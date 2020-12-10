@@ -1,6 +1,6 @@
 # jquery-project
 
-Um desafio de criar com JS o back-end de um site e-comerce de camisetas
+Um desafio de criar com JS o back-end de um site e-commerce de camisetas
 
 
 ![O programa rodando](./img/run-python.png)
