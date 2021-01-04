@@ -1,4 +1,4 @@
-.# jquery-project
+# jquery-project
 
 Um desafio de criar com JS o back-end de um site e-commerce de camisetas
 
